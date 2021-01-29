@@ -1,4 +1,4 @@
-# ECE421
+# APS360
 University of Toronto: Artificial Intelligence Fundamentals
 
 Lab 4: Data imputation - data encoding <br/>
